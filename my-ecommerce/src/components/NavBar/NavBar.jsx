@@ -24,7 +24,7 @@ const NavBar = () => {
                             </NavDropdown>
                         </Nav>
                         <Nav>
-                            <Nav.Link href="#deets">
+                            <Nav.Link href="#cart">
                                 <CartWidget />
                             </Nav.Link>
                         </Nav>
@@ -35,4 +35,4 @@ const NavBar = () => {
     )
 }
 
-export default NavBar
+export default NavBar;
